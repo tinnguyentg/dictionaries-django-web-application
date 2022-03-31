@@ -1,5 +1,5 @@
-![](https://img.shields.io/github/license/tinnguyentg/dictionaries-django-web-application)
-![](https://img.shields.io/github/last-commit/tinnguyentg/https://img.shields.io/github/license/tinnguyentg/dictionaries-django-web-application)
+![](https://img.shields.io/github/license/tinnguyentg/dictionaries-django-web-application?style=plastic)
+![](https://img.shields.io/github/last-commit/tinnguyentg/dictionaries-django-web-application)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 # Dictionaries web application
